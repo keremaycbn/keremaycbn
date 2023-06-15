@@ -2,10 +2,6 @@
 - 🔭 I’m currently working on HTML-CSS-JavaScript-SEO
 - 🌱 I’m currently learning React
 -  📫 How to reach me:www.linkedin.com/in/keremaycibin
--  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/keremaycibin"
    
 -  " Bilgi paylaşıldıkça çoğalır "
 <!--
