@@ -6,6 +6,7 @@
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/keremaycibin"
+   
 -  " Bilgi paylaşıldıkça çoğalır "
 <!--
 **keremaycbn/keremaycbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
